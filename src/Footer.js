@@ -3,7 +3,7 @@ const Footer = () => {
     <footer>
       <p>Je suis le nouveau footer</p>
     </footer>
-  )
+  );
 }
 
 export default Footer;

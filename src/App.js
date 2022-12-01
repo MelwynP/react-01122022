@@ -1,4 +1,5 @@
 import './App.css';
+import Meal from './Meal.js';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
           Bonsoir, ca va ?
         </p>
       </header>
+      <Meal />
     </div>
   );
 }
